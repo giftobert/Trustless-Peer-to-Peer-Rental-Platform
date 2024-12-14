@@ -9,3 +9,5 @@ H
 tests/rental-nft.test.ts,6/0/6090c33bf997529ad2ba9e2771fd023f08afa33f
 P
  contracts/reputation-system.clar,8/f/8f85a02c68bbab1632e6c7d1d0725529f935513d
+O
+tests/reputation-system.test.ts,6/9/6907ff0c07493f1fa039cd71e6369818d97c7647
